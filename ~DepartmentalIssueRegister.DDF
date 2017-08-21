@@ -1,0 +1,25 @@
+;Auto-generated Diamond Directive File. Can be deleted without harm.
+.Set CabinetNameTemplate=C:\Issue Register Project\~DepartmentalIssueRegister.CAB
+.Set CompressionType=LZX
+.Set CompressionLevel=7
+.Set InfFileName=C:\Issue Register Project\~DepartmentalIssueRegister_LAYOUT.INF
+.Set RptFileName=C:\Issue Register Project\~DepartmentalIssueRegister.RPT
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=0
+.Set InfCabinetLineFormat=*cab#*=Application Source Media,*cabfile*,0
+.Set Compress=on
+.Set CompressionMemory=21
+.Set DiskDirectoryTemplate=
+.Set Cabinet=ON
+.Set MaxCabinetSize=999999999
+.Set InfDiskHeader=
+.Set InfDiskLineFormat=
+.Set InfCabinetHeader=[SourceDisksNames]
+.Set InfFileHeader=
+.Set InfFileHeader1=[SourceDisksFiles]
+.Set InfFileLineFormat=*file*=*cab#*,,*size*,*csum*
+"C:\Issue Register Project\Database4.mdb"
+"C:\Issue Register Project\Files\component.jpg"
+"C:\Issue Register Project\Files\cse_img.jpg"
+"C:\Issue Register Project\Files\register.jpg"
+"C:\Issue Register Project\DepartmentalIssueRegister.exe"
